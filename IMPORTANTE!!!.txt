@@ -1,0 +1,9 @@
+Quiero que revices el codigo y me digas si tienes dudas, tratare de resolveralas en el transcurso del dia, 
+las variables las escribi en ingles (porq ps asi soy yo vea) espero no t conflictue mucho.
+
+Ya viene todo listo para ejecutar, recomiendo no ajustes la ventana del aplet de forma manual a la hora de
+compilarlo porq los botones se empiezan a reajustar y se hace un desmadre.
+
+Tambien cuando corras el programa dale chance q cargue bien y listo, deberia jalar al 100, cualquier duda ya sabes :)
+
+atte: yo
